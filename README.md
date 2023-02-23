@@ -2,7 +2,7 @@
 - 👀 I’m interested in Web 3.0 , Web 2.0 and Machine Learning 
 - 🙌 I'm looking for Frontend and Blockchain Projects To Contirbute.
 - 🌱 I’m currently learning Bloackchain
-- 💞️ I’m looking to collaborate with you.
+- 💞️ I’m looking to collaborate.
 - 📫 How to reach me ->
      > * [Portfolio](https://anurag-b72.github.io/MyPortfolio/ "Website")
      
