@@ -11,14 +11,14 @@
 [![Instagram Badge](https://img.shields.io/badge/-@mr._anuragbiswal/-f56040?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/mr._anuragbiswal/)](https://www.instagram.com/mr._anuragbiswal/)
 [![Gmail Badge](https://img.shields.io/badge/-anurag.biswal0702@gmail.com-db4437?style=flat-square&logo=Gmail&logoColor=white&link=mailto:anurag.biswal0702@gmail.com)](mailto:anurag.biswal0702@gmail.com)
 
+
+<!-- Github Stats Card -->
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anurag-b72&show_icons=true&theme=codeSTACKr&hide=issues&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anurag-b72&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anurag-b72)](https://github.com/anuraghazra/github-readme-stats) -->
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anurag-b72&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
+
 [![@anuragb72's Holopin board](https://holopin.me/anuragb72)](https://holopin.io/@anuragb72)
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anurag-b72&show_icons=true&&bg_color=022949&theme=dark#gh-dark-mode-only&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anurag-b72&hide_progress=true)](https://github.com/anurag-b72/github-readme-stats)
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anurag-b72)](https://github.com/anurag-b72/github-readme-stats) -->
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anurag-b72&layout=compact)](https://github.com/anurag-b72/github-readme-stats) -->
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anurag-b72&repo=github-readme-stats)](https://github.com/anurag-b72/github-readme-stats)
 
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=anurag-b72.anurag-b72/)
