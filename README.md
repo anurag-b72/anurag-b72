@@ -3,8 +3,8 @@
 - 🙌 I'm looking for Frontend and Blockchain Projects To Contirbute.
 - 🌱 I’m currently learning Bloackchain
 - 💞️ I’m looking to collaborate.
-- 📫 How to reach me ->
-     > * [Portfolio](https://anurag-b72.github.io/MyPortfolio/ "Website")
+- 👨‍💻 Check out my portfolio at [anurag-b72.github.io/MyPortfolio](https://anurag-b72.github.io/MyPortfolio/)
+- 📫 How to reach me: [Mail](mailto:anurag.biswal0702@gmail.com)
      
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mr._anuragbiswal) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/anurag-biswal72) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/21104262) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/AnuragBiswal72) [![Gmail Badge](https://img.shields.io/badge/-anurag.biswal0702@gmail.com-db4437?style=flat-square&logo=Gmail&logoColor=white&link=mailto:anurag.biswal0702@gmail.com)](mailto:anurag.biswal0702@gmail.com)      
