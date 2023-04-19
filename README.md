@@ -13,6 +13,14 @@
 
 [![@anuragb72's Holopin board](https://holopin.me/anuragb72)](https://holopin.io/@anuragb72)
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anurag-b72&show_icons=true&&bg_color=022949&theme=dark#gh-dark-mode-only&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anurag-b72&hide_progress=true)](https://github.com/anurag-b72/github-readme-stats)
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anurag-b72)](https://github.com/anurag-b72/github-readme-stats) -->
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anurag-b72&layout=compact)](https://github.com/anurag-b72/github-readme-stats) -->
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anurag-b72&repo=github-readme-stats)](https://github.com/anurag-b72/github-readme-stats)
+
+
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=anurag-b72.anurag-b72/)
 
 <!---
