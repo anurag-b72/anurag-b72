@@ -3,7 +3,7 @@
 - 🙌 I'm looking for Frontend and Blockchain Projects To Contirbute.
 - 🌱 I’m currently learning Bloackchain
 - 💞️ I’m looking to collaborate.
-- 👨‍💻 Check out my portfolio at [https://www.anuragbiswal.tech/](https://www.anuragbiswal.tech/)
+- 👨‍💻 Check out my portfolio at [anuragbiswal.tech](https://www.anuragbiswal.tech/)
 - 📫 How to reach me: [Mail](mailto:anurag.biswal0702@gmail.com)
      
 ## 🌐 Socials:
