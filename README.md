@@ -1,4 +1,4 @@
-# 👋 Hi, I’m @anurag-b72 (Anurag Biswal) (anuragbiswal.tech)
+# 👋 Hi, I’m @anurag-b72 (Anurag Biswal) [anuragbiswal.tech](https://www.anuragbiswal.tech/)
 - 👀 I’m interested in Web 3.0 , Web 2.0 and Machine Learning 
 - 🙌 I'm looking for Frontend and Blockchain Projects To Contirbute.
 - 🌱 I’m currently learning Bloackchain
