@@ -1,13 +1,13 @@
 # 👋 Hi, I’m @anurag-b72 (Anurag Biswal) [(anuragbiswal.tech)](https://www.anuragbiswal.tech/)
 - 👀 I’m interested in Web 3.0 , Web 2.0 and Machine Learning 
-- 🙌 I'm looking for Frontend and Blockchain Projects To Contirbute.
-- 🌱 I’m currently learning Bloackchain
+- 🙌 I'm looking for Frontend and Full Stack Projects To Contirbute.
+- 🌱 I’m enhancing my Problem-Solving Skills on [Leetcode](https://leetcode.com/anurag_b72/)
 - 💞️ I’m looking to collaborate.
 - 👨‍💻 Check out my portfolio at [www.anuragbiswal.tech](https://www.anuragbiswal.tech/)
 - 📫 How to reach me: [Mail](mailto:anurag.biswal0702@gmail.com)
      
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/anurag-biswal72) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/AnuragBiswal72) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/21104262) [![Gmail Badge](https://img.shields.io/badge/-anurag.biswal0702@gmail.com-db4437?style=flat-square&logo=Gmail&logoColor=white&link=mailto:anurag.biswal0702@gmail.com)](mailto:anurag.biswal0702@gmail.com) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mr._anuragbiswal)      
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/anurag-biswal72) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/AnuragBiswal72) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/21104262) [![Gmail Badge](https://img.shields.io/badge/-anurag.biswal0702@gmail.com-db4437?style=flat-square&logo=Gmail&logoColor=white&link=mailto:anurag.biswal0702@gmail.com)](mailto:anurag.biswal0702@gmail.com) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mr._anuragbiswal) [![Leetcode](https://img.shields.io/badge/LeetCode-000000?logo=Leetcode&logoColor=#d16c06)](https://leetcode.com/anurag_b72/) [![GeeksForGeeks](https://img.shields.io/badge/GeeksforGeeks-gray?logo=geeksforgeeks&logoColor=35914c)](https://auth.geeksforgeeks.org/user/anuragbiswal2002/)
      
 <!-- [![Linkedin Badge](https://img.shields.io/badge/-anuragbiswal72-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anurag-biswal72/)](https://www.linkedin.com/in/anurag-biswal72/)
 [![Twitter Badge](https://img.shields.io/badge/-@AnuragBiswal72-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/AnuragBiswal72)](https://twitter.com/AnuragBiswal72)
