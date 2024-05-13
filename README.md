@@ -1,4 +1,4 @@
-# 👋 Hi, I’m @anurag-b72 (Anurag Biswal) [(anuragbiswal.tech)](https://anuragbiswal.netlify.app/)
+# 👋 Hi, I’m @anurag-b72 (Anurag Biswal) [(anuragbiswal.netlify.app)](https://anuragbiswal.netlify.app/)
 - 👀 I’m interested in Web 3.0 , Web 2.0 and Machine Learning 
 - 🙌 I'm looking for Frontend and Full Stack Projects To Contirbute.
 - 🌱 I’m enhancing my Problem-Solving Skills on [Leetcode](https://leetcode.com/anurag_b72/)
